@@ -1,0 +1,4 @@
+instructor
+praisonai
+portkey-ai
+composio-core

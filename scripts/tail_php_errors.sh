@@ -1,0 +1,1 @@
+Get-Content "C:\laragon\tmp\php_errors.log" -Wait -Tail 10
